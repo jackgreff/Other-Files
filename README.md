@@ -1,2 +1,2 @@
 # Other-Files
-Other projects I've worked on
+This is a list of games I coded in C#. They included war (the card game), battleship, 
