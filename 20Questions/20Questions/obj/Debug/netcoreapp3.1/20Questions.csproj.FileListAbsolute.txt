@@ -1,0 +1,12 @@
+/Users/jackgreff/Projects/20Questions/20Questions/obj/Debug/netcoreapp3.1/20Questions.csprojAssemblyReference.cache
+/Users/jackgreff/Projects/20Questions/20Questions/obj/Debug/netcoreapp3.1/20Questions.AssemblyInfoInputs.cache
+/Users/jackgreff/Projects/20Questions/20Questions/obj/Debug/netcoreapp3.1/20Questions.AssemblyInfo.cs
+/Users/jackgreff/Projects/20Questions/20Questions/obj/Debug/netcoreapp3.1/20Questions.csproj.CoreCompileInputs.cache
+/Users/jackgreff/Projects/20Questions/20Questions/bin/Debug/netcoreapp3.1/20Questions.deps.json
+/Users/jackgreff/Projects/20Questions/20Questions/bin/Debug/netcoreapp3.1/20Questions.runtimeconfig.json
+/Users/jackgreff/Projects/20Questions/20Questions/bin/Debug/netcoreapp3.1/20Questions.runtimeconfig.dev.json
+/Users/jackgreff/Projects/20Questions/20Questions/bin/Debug/netcoreapp3.1/20Questions.dll
+/Users/jackgreff/Projects/20Questions/20Questions/bin/Debug/netcoreapp3.1/20Questions.pdb
+/Users/jackgreff/Projects/20Questions/20Questions/obj/Debug/netcoreapp3.1/20Questions.dll
+/Users/jackgreff/Projects/20Questions/20Questions/obj/Debug/netcoreapp3.1/20Questions.pdb
+/Users/jackgreff/Projects/20Questions/20Questions/obj/Debug/netcoreapp3.1/20Questions.genruntimeconfig.cache

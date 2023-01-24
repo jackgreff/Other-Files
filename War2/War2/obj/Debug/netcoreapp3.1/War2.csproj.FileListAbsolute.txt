@@ -1,0 +1,12 @@
+/Users/jackgreff/Projects/War2/War2/bin/Debug/netcoreapp3.1/War2.deps.json
+/Users/jackgreff/Projects/War2/War2/bin/Debug/netcoreapp3.1/War2.runtimeconfig.json
+/Users/jackgreff/Projects/War2/War2/bin/Debug/netcoreapp3.1/War2.runtimeconfig.dev.json
+/Users/jackgreff/Projects/War2/War2/bin/Debug/netcoreapp3.1/War2.dll
+/Users/jackgreff/Projects/War2/War2/bin/Debug/netcoreapp3.1/War2.pdb
+/Users/jackgreff/Projects/War2/War2/obj/Debug/netcoreapp3.1/War2.csprojAssemblyReference.cache
+/Users/jackgreff/Projects/War2/War2/obj/Debug/netcoreapp3.1/War2.AssemblyInfoInputs.cache
+/Users/jackgreff/Projects/War2/War2/obj/Debug/netcoreapp3.1/War2.AssemblyInfo.cs
+/Users/jackgreff/Projects/War2/War2/obj/Debug/netcoreapp3.1/War2.csproj.CoreCompileInputs.cache
+/Users/jackgreff/Projects/War2/War2/obj/Debug/netcoreapp3.1/War2.dll
+/Users/jackgreff/Projects/War2/War2/obj/Debug/netcoreapp3.1/War2.pdb
+/Users/jackgreff/Projects/War2/War2/obj/Debug/netcoreapp3.1/War2.genruntimeconfig.cache
