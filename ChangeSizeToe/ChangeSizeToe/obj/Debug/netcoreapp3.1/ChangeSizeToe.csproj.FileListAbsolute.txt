@@ -1,0 +1,12 @@
+/Users/jackgreff/Projects/ChangeSizeToe/ChangeSizeToe/bin/Debug/netcoreapp3.1/ChangeSizeToe.deps.json
+/Users/jackgreff/Projects/ChangeSizeToe/ChangeSizeToe/bin/Debug/netcoreapp3.1/ChangeSizeToe.runtimeconfig.json
+/Users/jackgreff/Projects/ChangeSizeToe/ChangeSizeToe/bin/Debug/netcoreapp3.1/ChangeSizeToe.runtimeconfig.dev.json
+/Users/jackgreff/Projects/ChangeSizeToe/ChangeSizeToe/bin/Debug/netcoreapp3.1/ChangeSizeToe.dll
+/Users/jackgreff/Projects/ChangeSizeToe/ChangeSizeToe/bin/Debug/netcoreapp3.1/ChangeSizeToe.pdb
+/Users/jackgreff/Projects/ChangeSizeToe/ChangeSizeToe/obj/Debug/netcoreapp3.1/ChangeSizeToe.csprojAssemblyReference.cache
+/Users/jackgreff/Projects/ChangeSizeToe/ChangeSizeToe/obj/Debug/netcoreapp3.1/ChangeSizeToe.AssemblyInfoInputs.cache
+/Users/jackgreff/Projects/ChangeSizeToe/ChangeSizeToe/obj/Debug/netcoreapp3.1/ChangeSizeToe.AssemblyInfo.cs
+/Users/jackgreff/Projects/ChangeSizeToe/ChangeSizeToe/obj/Debug/netcoreapp3.1/ChangeSizeToe.csproj.CoreCompileInputs.cache
+/Users/jackgreff/Projects/ChangeSizeToe/ChangeSizeToe/obj/Debug/netcoreapp3.1/ChangeSizeToe.dll
+/Users/jackgreff/Projects/ChangeSizeToe/ChangeSizeToe/obj/Debug/netcoreapp3.1/ChangeSizeToe.pdb
+/Users/jackgreff/Projects/ChangeSizeToe/ChangeSizeToe/obj/Debug/netcoreapp3.1/ChangeSizeToe.genruntimeconfig.cache
