@@ -1,0 +1,12 @@
+/Users/jackgreff/Projects/ChooseGamesALL/ChooseGamesALL/obj/Debug/netcoreapp3.1/ChooseGamesALL.csprojAssemblyReference.cache
+/Users/jackgreff/Projects/ChooseGamesALL/ChooseGamesALL/obj/Debug/netcoreapp3.1/ChooseGamesALL.AssemblyInfoInputs.cache
+/Users/jackgreff/Projects/ChooseGamesALL/ChooseGamesALL/obj/Debug/netcoreapp3.1/ChooseGamesALL.AssemblyInfo.cs
+/Users/jackgreff/Projects/ChooseGamesALL/ChooseGamesALL/obj/Debug/netcoreapp3.1/ChooseGamesALL.csproj.CoreCompileInputs.cache
+/Users/jackgreff/Projects/ChooseGamesALL/ChooseGamesALL/bin/Debug/netcoreapp3.1/ChooseGamesALL.deps.json
+/Users/jackgreff/Projects/ChooseGamesALL/ChooseGamesALL/bin/Debug/netcoreapp3.1/ChooseGamesALL.runtimeconfig.json
+/Users/jackgreff/Projects/ChooseGamesALL/ChooseGamesALL/bin/Debug/netcoreapp3.1/ChooseGamesALL.runtimeconfig.dev.json
+/Users/jackgreff/Projects/ChooseGamesALL/ChooseGamesALL/bin/Debug/netcoreapp3.1/ChooseGamesALL.dll
+/Users/jackgreff/Projects/ChooseGamesALL/ChooseGamesALL/bin/Debug/netcoreapp3.1/ChooseGamesALL.pdb
+/Users/jackgreff/Projects/ChooseGamesALL/ChooseGamesALL/obj/Debug/netcoreapp3.1/ChooseGamesALL.dll
+/Users/jackgreff/Projects/ChooseGamesALL/ChooseGamesALL/obj/Debug/netcoreapp3.1/ChooseGamesALL.pdb
+/Users/jackgreff/Projects/ChooseGamesALL/ChooseGamesALL/obj/Debug/netcoreapp3.1/ChooseGamesALL.genruntimeconfig.cache
